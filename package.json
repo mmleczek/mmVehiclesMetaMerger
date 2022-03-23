@@ -1,12 +1,12 @@
 {
-  "name": "GTA5VehiclesMetaMerger",
+  "name": "mmVehiclesMetaMerger",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "mmleczek <mmleczek.com>",
   "license": "ISC",
   "dependencies": {
     "cli-table": "^0.3.11",
