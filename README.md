@@ -1,2 +1,2 @@
 # mmVehiclesMetaMerger
- Tool to easily merge multiple GTA 5 vehicle meta files.
+ Tool made to easily merge multiple GTA5 vehicle meta files.
